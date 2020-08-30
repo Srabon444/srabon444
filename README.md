@@ -12,7 +12,7 @@
 -->
 Here are some quick facts of me:
 
-- 🔭 I’m currently working on Java & Java Spring for enterprise softwaredevelopment
+- 🔭 I’m currently working on Java & Java Spring for enterprise software development
 - 🌱 I’m currently learning Java, Java Spring, Javascript and Json
 - 👯 I’m looking to collaborate on any kind of projects
 <!--- 🤔 I’m looking for help with any individual or Start-Ups--->
