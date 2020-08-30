@@ -14,8 +14,6 @@ Here are some quick facts of me:
 
 - 🔭 I’m currently working on Java & Java Spring for enterprise software development
 - 🌱 I’m currently learning Java, Java Spring, Javascript and Json
-- 👯 I’m looking to collaborate on any kind of projects
-<!--- 🤔 I’m looking for help with any individual or Start-Ups--->
 - 💬 Ask me about anything except any free source code
 - 📫 How to reach me: connect me at mislam161198@bscse.uiu.ac.bd
 - 😄 Pronouns: He/him
@@ -25,3 +23,5 @@ Currently I am Pursuing my Bachelor degree in Computer Science & Engineering at 
 I love learning new language and frameworks. In my leisure time I work on different frameworks and API's. <!--I can use the power of Cloud Computing (particularly GCP) to deploy and scale software and IT infrastructure at scale.--> I have worked with CSS, HTML5, PHP, MySQL, Java, Python. I am interested in new technologies and reocket Industry.
 I am an enthusiastic learner who loves to 
 -->
+<!--- 👯 I’m looking to collaborate on any kind of projects--->
+<!--- 🤔 I’m looking for help with any individual or Start-Ups--->
