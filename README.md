@@ -64,7 +64,7 @@ I have a passion for continuously learning and staying up to date with new techn
 <h3 align="left">Tools and others:</h3>
 
 <p align="left"> 
-  <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vercel/" alt="vercel" width="40" height="40"/> </a> 
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21.svg" alt="vercel" width="40" height="40"/> </a> 
 <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/webstorm.svg" alt="webstorm" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
