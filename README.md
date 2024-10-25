@@ -31,7 +31,7 @@ I have a passion for continuously learning and staying up to date with new techn
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/css3.png" alt="css3" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/javascript--v1.png" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/office/344/react.png" alt="React js" width="40" height="40"/> </a> 
-   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/120px-Nextjs-logo.svg.png" alt="NextJS" width="40" height="40"/> </a> 
+   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg" alt="NextJS" width="40" height="40"/> </a> 
   <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="ShadCN" width="40" height="40"/> </a> 
   
   
