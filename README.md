@@ -10,6 +10,9 @@
 -->
 ![screencast](https://i.imgur.com/QchjbzY.gif)
 
+<img align="right" alt="Coding" width="400" src="https://i.imgur.com/S8vqyhA.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Srabon444&label=Profile%20views&color=0e75b6&style=flat" alt="manassaharoy" /> </p>
 Here are some quick facts of me:
 
 - 🔭 I’m currently working with Next.js, React, TypeScript, JavaScript, Node.js, MongoDB, Prisma, Express, Zustand, Tanstack Query, etc. for web development
@@ -57,8 +60,6 @@ I have a passion for continuously learning and staying up to date with new techn
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/postgreesql.png" alt="PostgreSQL" width="40" height="40"/> </a>
   
     
-
-  
 </p>
 
 <h3 align="left">Tools and others:</h3>
