@@ -45,7 +45,7 @@ I have a passion for continuously learning and staying up to date with new techn
 <p align="left"> 
 
   
-  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/nodejs.svg" alt="nodejs" width="40" height="40"/> </a> 
+  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/api-settings.png" alt="REST API" width="40" height="40"/> </a> 
 
 </p>
