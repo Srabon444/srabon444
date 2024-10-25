@@ -8,9 +8,8 @@
 <!--
 **Srabon444/srabon444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-![screencast](https://i.imgur.com/k5Pm5i7.gif)
 
-<img align="right" alt="Coding" width="300" src="https://i.imgur.com/13UxgZi.gif">
+<img align="right" alt="Coding" width="300" src="https://i.imgur.com/k5Pm5i7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Srabon444&label=Profile%20views&color=0e75b6&style=flat" alt="manassaharoy" /> </p>
 Here are some quick facts of me:
