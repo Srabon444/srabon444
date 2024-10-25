@@ -8,7 +8,7 @@
 <!--
 **Srabon444/srabon444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-![screencast](https://i.imgur.com/DeqkkuI.gif)
+![screencast](https://i.imgur.com/k5Pm5i7.gif)
 
 <img align="right" alt="Coding" width="300" src="https://i.imgur.com/13UxgZi.gif">
 
