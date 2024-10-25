@@ -35,7 +35,7 @@ I have a passion for continuously learning and staying up to date with new techn
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/office/344/react.png" alt="React js" width="40" height="40"/> </a> 
    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg" alt="NextJS" width="40" height="40"/> </a> 
   <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="ShadCN" width="40" height="40"/> </a> 
-  
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="Typescript" width="40" height="40"/> </a> 
   
 </p>
 
@@ -45,7 +45,7 @@ I have a passion for continuously learning and staying up to date with new techn
 <p align="left"> 
   
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/344/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo.png" alt="django" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/python--v1.png" alt="python" width="40" height="40"/> </a> 
+  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/api-settings.png" alt="REST API" width="40" height="40"/> </a> 
 
 </p>
