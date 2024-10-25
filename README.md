@@ -10,7 +10,7 @@
 -->
 ![screencast](https://i.imgur.com/DeqkkuI.gif)
 
-<img align="right" alt="Coding" width="400" src="https://i.imgur.com/hb6RKuC.gif">
+<img align="right" alt="Coding" width="400" src="https://i.imgur.com/13UxgZi.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Srabon444&label=Profile%20views&color=0e75b6&style=flat" alt="manassaharoy" /> </p>
 Here are some quick facts of me:
