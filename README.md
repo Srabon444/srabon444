@@ -55,7 +55,6 @@ I have a passion for continuously learning and staying up to date with new techn
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1vRc1uqOLholXlImjJJlVSiQHPPs9Vhu_4hC2bTWhow&s" alt="mongodb" width="40" height="40"/> </a>
 <!--   <a href="https://www.supabase.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/f4ec5347a36e06540a69376753a7c37a8cb5a136/topics/supabase/supabase.png" alt="supabase" width="40" height="40"/> </a> -->
 <!--  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/mysql-logo.png" alt="mysql" width="40" height="40"/> </a> -->
-  
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/postgreesql.png" alt="PostgreSQL" width="40" height="40"/> </a>
   
     
