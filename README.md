@@ -25,6 +25,16 @@ I am a self-taught full-stack software engineer and a CSE graduate from United I
 
 I have a passion for continuously learning and staying up to date with new technologies. In my spare time, I explore different tools and technologies, applying my knowledge to real-world applications.
 
+## 🛠️ Technologies & Tools
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-ffca28?style=flat-square&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
 <h3 align="left">Frontend:</h3>
 
 <p align="left"> 
