@@ -12,18 +12,18 @@
 <img align="right" alt="Coding" width="300" src="https://i.imgur.com/k5Pm5i7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Srabon444&label=Profile%20views&color=0e75b6&style=flat" alt="ashrafulislam" /> </p>
-Here are some quick facts of me:
+Here are some quick facts about me:
 
 - 🔭 I’m currently working with Next.js, React, TypeScript, JavaScript, Node.js, MongoDB, Prisma, Express, Zustand, Tanstack Query, etc. for web development
 - 🌱 I’m currently learning NeonDB, Docker & Redis
-- 💬 Ask me about anything, I'll try to accommodate accordinng to your need😄
+- 💬 Ask me about anything, and I'll try to accommodate according to your need😄
 - 📫 How to reach me: connect me at ashraful.codesmith@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I love Cycling.
 
-I am a self-taught full-stack software engineer and a CSE graduate from United International University, Dhaka, Bangladesh. My expertise includes working with a range of high-demand libraries, frameworks, and APIs, including Next.js, React, TypeScript, JavaScript, Node.js, MongoDB, Prisma, Express, Zustand, Tanstack Query, Tailwind, ShadCN, NextUI, and Prismic CMS.
+An ambivert and lifelong learner accidentally became a software engineer (turns out, I kinda love it). I’m always chasing the next cool thing to build — from pixel-perfect UIs to backend magic. Fueled by coffee, curiosity, and late-night code sessions.
 
-I have a passion for continuously learning and staying up to date with new technologies. In my spare time, I explore different tools and technologies, applying my knowledge to real-world applications.
+I am a self-taught full-stack software engineer and a CSE graduate from United International University, Dhaka, Bangladesh. My expertise includes but is not limited to working with a range of high-demand libraries, frameworks, and APIs, including Next.js, React, TypeScript, JavaScript, Node.js, NestJS, MongoDB, Prisma, Express, Zustand, Tanstack Query, Tailwind, ShadCN, AceternityUI, OriginUI, NextUI, and Prismic CMS.
 
 ## 🛠️ Technologies & Tools
 
@@ -41,4 +41,3 @@ I have a passion for continuously learning and staying up to date with new techn
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Srabon444&&theme=gotham"  alt="Srabon444" /></p>
