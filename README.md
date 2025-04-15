@@ -41,6 +41,4 @@ I have a passion for continuously learning and staying up to date with new techn
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Srabon444&theme=codeSTACKr&show_icons=true"  alt="Srabon444" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Srabon444&&theme=gotham"  alt="Srabon444" /></p>
