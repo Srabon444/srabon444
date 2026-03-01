@@ -14,16 +14,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Srabon444&label=Profile%20views&color=0e75b6&style=flat" alt="ashrafulislam" /> </p>
 Here are some quick facts about me:
 
-- 🔭 I’m currently working with Next.js, React, TypeScript, JavaScript, Node.js, MongoDB, Prisma, Express, Zustand, Tanstack Query, etc. for web development
+- 🔭 I’m currently working with Next.js, React, TypeScript, JavaScript, Node.js, Prisma, POstgreSQL, Express, Zustand, Tanstack Query, etc. for web development
 - 🌱 I’m currently learning NeonDB, Docker & Redis
 - 💬 Ask me about anything, and I'll try to accommodate according to your need😄
 - 📫 How to reach me: connect me at ashraful.codesmith@gmail.com
-- 😄 Pronouns: He/him
 - ⚡ Fun fact: I love Cycling.
 
 An ambivert and lifelong learner accidentally became a software engineer (turns out, I kinda love it). I’m always chasing the next cool thing to build — from pixel-perfect UIs to backend magic. Fueled by coffee, curiosity, and late-night code sessions.
 
-I am a self-taught full-stack software engineer and a CSE graduate from United International University, Dhaka, Bangladesh. My expertise includes but is not limited to working with a range of high-demand libraries, frameworks, and APIs, including Next.js, React, TypeScript, JavaScript, Node.js, NestJS, MongoDB, Prisma, Express, Zustand, Tanstack Query, Tailwind, ShadCN, AceternityUI, OriginUI, NextUI, and Prismic CMS.
+I am a self-taught full-stack software engineer and a CSE graduate from United International University, Dhaka, Bangladesh. My expertise includes but is not limited to working with a range of high-demand libraries, frameworks, and APIs, including Next.js, React, TypeScript, JavaScript, Node.js, NestJS, MongoDB, Prisma, Express, Zustand, Tanstack Query, Tailwind, ShadCN, Ant Design and Prismic CMS.
 
 ## 🛠️ Technologies & Tools
 
