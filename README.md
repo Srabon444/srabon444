@@ -16,7 +16,7 @@ Here are some quick facts about me:
 
 - 🔭 I’m currently working with Next.js, React, TypeScript, JavaScript, Node.js, Prisma, POstgreSQL, Express, Zustand, Tanstack Query, etc. for web development
 - 🌱 I’m currently learning NeonDB, Docker & Redis
-- 💬 Ask me about anything, and I'll try to accommodate according to your need😄
+- 💬 Ask me about anything, and I'll try to accommodate according to your need
 - 📫 How to reach me: connect me at ashraful.codesmith@gmail.com
 - ⚡ Fun fact: I love Cycling.
 
