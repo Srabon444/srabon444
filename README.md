@@ -22,7 +22,7 @@ Here are some quick facts about me:
 
 An ambivert and lifelong learner accidentally became a software engineer (turns out, I kinda love it). I’m always chasing the next cool thing to build — from pixel-perfect UIs to backend magic. Fueled by coffee, curiosity, and late-night code sessions.
 
-I am a self-taught full-stack software engineer and a CSE graduate from United International University, Dhaka, Bangladesh. My expertise includes but is not limited to working with a range of high-demand libraries, frameworks, and APIs, including Next.js, React, TypeScript, JavaScript, Node.js, NestJS, MongoDB, Prisma, Express, Zustand, Tanstack Query, Tailwind, ShadCN, Ant Design and Prismic CMS.
+I am a self-taught full-stack software engineer and a CSE graduate from United International University, Dhaka, Bangladesh. My expertise includes but is not limited to working with a range of high-demand libraries, frameworks, and APIs, including Next.js, React, TypeScript, JavaScript, Node.js, NestJS, MongoDB, postgreSQL, Prisma, Express, Zustand, Tanstack Query, Tailwind, ShadCN, Ant Design and Prismic CMS.
 
 ## 🛠️ Technologies & Tools
 
