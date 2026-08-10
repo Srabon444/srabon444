@@ -21,7 +21,7 @@ Over the years I have:
 * Led a team of **5 developers** and contributed to code reviews and technical decisions
 * Reduced a critical API's response time from **8s to ~225ms — a 97% improvement**
 * Built a complete enterprise purchasing workflow spanning **6 document types**, including financial journal and GL integration
-* Developed **Bangladesh's largest ambulance booking platform**, covering booking, dispatch, payments, billing, and operations serving 1000+ users
+* Developed **Bangladesh's largest ambulance booking platform**, covering booking, dispatch, payments, billing, and operations serving **1000+ users**
 
 I work across **React, Next.js, TypeScript, Node.js, PostgreSQL, and more**, and enjoy solving complex problems that sit somewhere between software engineering and real-world business logic.
 
