@@ -16,12 +16,12 @@ I am a Full-Stack Software Engineer specializing in modern web technologies and 
 
 Over the years I have:
 
-* Worked on SaaS ERP solutions for **Kimly and GoldLite Singapore**
+* Built SaaS ERP solutions for **Kimly and GoldLite Singapore**, based on **SAP Business One**
 * Contributed to ERP solutions for **Fortune 500 companies**
 * Led a team of **5 developers** and contributed to code reviews and technical decisions
-* Reduced a critical API's response time from **8s to ~225ms — a 97% improvement**
-* Built a complete enterprise purchasing workflow spanning **6 document types**, including financial journal and GL integration
-* Developed **Bangladesh's largest ambulance booking platform**, covering booking, dispatch, payments, billing, and operations serving **1000+ users**
+* Reduced critical API's response time from **8s to ~225ms — a 97% improvement**
+* Built a complete enterprise purchasing workflow spanning **6 document types**, including financial journal entries and GL integration
+* Developed **Bangladesh's largest ambulance booking platform**, covering booking, dispatch, payments, billing, and operations serving **1000+ monthly users**
 
 I work across **React, Next.js, TypeScript, Node.js, PostgreSQL, and more**, and enjoy solving complex problems that sit somewhere between software engineering and real-world business logic.
 
