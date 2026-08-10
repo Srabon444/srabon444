@@ -8,20 +8,26 @@
 <!--
 **Srabon444/srabon444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
+## Hey! I'm Ashraful 👋🏻
 <img align="right" alt="Coding" width="300" src="https://i.imgur.com/k5Pm5i7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Srabon444&label=Profile%20views&color=0e75b6&style=flat" alt="ashrafulislam" /> </p>
-Here are some quick facts about me:
+I am a Full-Stack Software Engineer specializing in modern web technologies and enterprise applications. I build scalable products across frontend, backend, and databases, with a focus on turning complex business requirements into reliable software.
 
-- 🔭 I’m currently working with Next.js, React, TypeScript, JavaScript, Node.js, Prisma, POstgreSQL, Express, Zustand, Tanstack Query, etc.
-- 🌱 I’m currently learning Advanced System Design Patterns
-- 💬 Ask me about anything, and I'll try to accommodate according to your need
-- 📫 How to reach me: connect me at ashraful.codesmith@gmail.com
-- ⚡ Fun fact: I love Cycling.
+Over the years I have:
 
-An ambivert and lifelong learner accidentally became a software engineer (turns out, I kinda love it). I’m always chasing the next cool thing to build — from pixel-perfect UIs to backend magic. Fueled by coffee, curiosity, and late-night code sessions.
+* Worked on SaaS ERP solutions for **Kimly and GoldLite Singapore**
+* Contributed to ERP solutions for **Fortune 500 companies**
+* Led a team of **5 developers** and contributed to code reviews and technical decisions
+* Reduced a critical API's response time from **8s to ~225ms — a 97% improvement**
+* Built a complete enterprise purchasing workflow spanning **6 document types**, including financial journal and GL integration
+* Developed **Bangladesh's largest ambulance booking platform**, covering booking, dispatch, payments, billing, and operations serving 1000+ users
 
+I work across **React, Next.js, TypeScript, Node.js, PostgreSQL, and more**, and enjoy solving complex problems that sit somewhere between software engineering and real-world business logic.
+
+You can reach me at **[ashraful.uk](https://ashraful.uk/)** or book a meeting at **[cal.com/@ashraful-islam](https://cal.com/ashraful-islam)**.
+
+Wanna write a very serious email? Send it here:  **[ashraful.codesmith@gmail.com](mailto:ashraful.codesmith@gmail.com)**.
 ## 🛠️ Technologies & Tools
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
